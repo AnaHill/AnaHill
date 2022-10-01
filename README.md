@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnaHill
+## Hi, I’m @AnaHill alias Antti Mäki
 - 👀 I’m interested in data science.
 - 🌱 I’m currently learning Python and data science
 
