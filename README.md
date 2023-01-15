@@ -1,6 +1,6 @@
-## Hi, I’m @AnaHill alias Antti Mäki
-- 👀 I’m interested in data science.
-- 🌱 I’m currently learning Python and data science
+## Hi, I’m @AnaHill alias Antti-Juhana Mäki
+- 👀 I’m interested in data science generally and especially building data engineer solution on modern cloud platforms.
+- 🌱 I’m currently learning SQL, Python, Microsoft Azure, Databricks and data science
 
 <!---
 AnaHill/AnaHill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
