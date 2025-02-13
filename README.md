@@ -1,5 +1,8 @@
-## Hi, I’m @AnaHill alias Antti-Juhana Mäki
-I’m data engineer, building resilient data solutions using modern cloud platforms and tools, mainly Azure (especially Data Factory), Databricks, Postgres, and Python & SQL. I am also very experienced with MATLAB & Simulink and COMSOL, and familiar with Snowflake, Crosser, IIoT, and so on.
+## Moro! I’m @AnaHill alias A-J Mäki
+I’m a data engineer, former researcher, who is building resilient data solutions for customers using modern cloud platforms and tools, mainly Azure (ADF), Databricks, PostgreSQL, and Python. 
+I am also very experienced with MATLAB & Simulink and COMSOL. 
+
+Check out my [main](https://anahill.github.io/) or [portfolio](https://anahill.github.io/portfolio/) pages to find out more.
 
 <!---
 AnaHill/AnaHill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
