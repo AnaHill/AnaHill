@@ -2,7 +2,7 @@
 I’m a data engineer, former postdoctoral researcher, who is building resilient data solutions for customers using modern cloud platforms and tools, especially with Azure (ADF and DevOps), Databricks, PostgreSQL, and Python. 
 I am also very experienced with MATLAB & Simulink and COMSOL (FEM). 
 
-Check out my [main page](https://anahill.github.io/) or [my work portfolio](https://anahill.github.io/work.html) pages to find out more. My researcher background is summarized [in my academic portfolio](https://anahill.github.io/academic.html).
+Check out [my main page](https://anahill.github.io/) or [my work portfolio](https://anahill.github.io/work.html) to find out more. My researcher background is summarized [in my academic portfolio](https://anahill.github.io/academic.html).
 
 <!---
 AnaHill/AnaHill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
