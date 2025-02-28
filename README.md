@@ -1,8 +1,8 @@
 ## Moro! I’m @AnaHill alias A-J Mäki
-I’m a data engineer, former researcher, who is building resilient data solutions for customers using modern cloud platforms and tools, mainly Azure (ADF), Databricks, PostgreSQL, and Python. 
-I am also very experienced with MATLAB & Simulink and COMSOL. 
+I’m a data engineer, former postdoctoral researcher, who is building resilient data solutions for customers using modern cloud platforms and tools, especially with Azure (ADF and DevOps), Databricks, PostgreSQL, and Python. 
+I am also very experienced with MATLAB & Simulink and COMSOL (FEM). 
 
-Check out my [main](https://anahill.github.io/) or [portfolio](https://anahill.github.io/portfolio/) pages to find out more. My researcher background is summarize [in my academic portfolio](https://anahill.github.io/academic-portfolio/).
+Check out my [main page](https://anahill.github.io/) or [my work portfolio](https://anahill.github.io/work.html) pages to find out more. My researcher background is summarized [in my academic portfolio](https://anahill.github.io/academic.html).
 
 <!---
 AnaHill/AnaHill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
